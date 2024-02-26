@@ -15,3 +15,8 @@ A collection of images, and texture maps
 * [Neptune](/textures/2k_neptune.jpg)
 * [Stars](/textures/2k_stars.jpg) ([high resolution](/textures/8k_stars.jpg))
 * [Stars, and the Milky Way](/textures/2k_stars_milky_way.jpg) ([high resolution](/textures/8k_stars_milky_way.jpg))
+
+### [Scientific Visualization Studio](https://svs.gsfc.nasa.gov)'s [Deep Star Maps 2020](https://svs.gsfc.nasa.gov/4851)
+> This set of star maps was created by plotting the position, brightness, and color of 1.7 billion stars from the Hipparcos-2, Tycho-2, and Gaia Data Release 2 star catalogs, with help from the Yale Bright Star Catalog, UCAC3, and the XHIP Hipparcos cross-reference.
+* [A star map in celestial coordinates](/textures/starmap_2020_4k.jpg)
+* [Constellation figures in celestial coordinates](/textures/constellation_figures_2k.tif)
